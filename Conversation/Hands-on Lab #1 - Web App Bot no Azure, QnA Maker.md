@@ -22,7 +22,7 @@ Neste laboratório prático, você aprenderá como:
 - Criar uma base de conhecimentos no Microsoft QnA Maker, preenche-lá com dados e conecta-lá a um bot
 - Implementar bots direto no código e depurá-los
 - Publicar bots e usar a integração contínua para mantê-los atualizados
-- Conectar um bot no Skype e interajir com ele por lá
+- Conectar um bot no Skype e interagir com ele por lá
 
 
 <a name="Prerequisites"></a>
